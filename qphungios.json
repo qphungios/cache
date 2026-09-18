@@ -285,8 +285,8 @@
       ],
       "publishedAt": "2026-09-15T07:15:00Z",
       "download": "packages/ffthbody.3105",
-      "sha256": "07c295e775ea27d3e8e4afeb34dfa6976fe1662435ecb2223ab6b6f11c977439",
-      "size": 1956429,
+      "sha256": "e587b0f8b2f2d9926facc4ac2bb2fdcd3d373f77fa959c2fcfc66988de96a3f3",
+      "size": 2621286,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -338,8 +338,8 @@
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
       "download": "packages/ffthneck.3105",
-      "sha256": "5e20c8ee3d956c1d30b9392ba17b907fe89a617cac7135ae3f05bf5a3ec2bba7",
-      "size": 1956429,
+      "sha256": "534c698b2720084499fe4e062e48321dd3c440cb4280773d277eec23a4074219",
+      "size": 2621286,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -391,8 +391,8 @@
       ],
       "publishedAt": "2026-09-15T07:15:00Z",
       "download": "packages/ffthdrag.3105",
-      "sha256": "0b40a2e31a3ed8cd7679d41858f5af58163f33634d24bb1bffe5ac13529a80c7",
-      "size": 1956429,
+      "sha256": "4ff3c4c96462d7d4c394121f3cb6d0dd4e6e84218b1cfd5efe3c7a015c648d54",
+      "size": 2621286,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -444,8 +444,8 @@
       ],
       "publishedAt": "2026-09-15T07:15:00Z",
       "download": "packages/ffthchest.3105",
-      "sha256": "d1a8f76d59849c7aee76adb3b243d256c37007374b611eebb3e7dfb92df3692d",
-      "size": 1956430,
+      "sha256": "6a039f30e87a8cf7861f5eae5c222c5005e5691443aa4536160e7f0c1b1531e3",
+      "size": 2621287,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -497,8 +497,8 @@
       ],
       "publishedAt": "2026-09-15T07:15:00Z",
       "download": "packages/ffthmagic.3105",
-      "sha256": "c4b9fde96c18081e4da4c3875314678b4c3da25428d66df91b4c39421ee21b84",
-      "size": 1956427,
+      "sha256": "086383a2ab7bc827d2602d3081f977850eb90198dc83daadd4bdc232db7914ef",
+      "size": 2621284,
       "supportedOS": [
         {
           "minimum": "17.0",
