@@ -270,6 +270,271 @@
         "assets/icon.png"
       ],
       "password": "qphungios"
+    },
+    {
+      "identifier": "aimbfg",
+      "name": "FTH AIMBODY ( BẬT SẢNH )",
+      "author": "qphungios",
+      "version": "1.0.0",
+      "summary": "QPHUNGIOS • H4CK IOS",
+      "description": " Zalo 0348609562  Tele @qphungios ",
+      "category": "Game",
+      "tags": [
+        "Game",
+        "qphungios"
+      ],
+      "publishedAt": "2026-09-15T07:15:00Z",
+      "download": "packages/ffthbody.3105",
+      "sha256": "07c295e775ea27d3e8e4afeb34dfa6976fe1662435ecb2223ab6b6f11c977439",
+      "size": 1956429,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": true,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_8212.jpeg",
+        "assets/IMG_8231.jpeg",
+        "assets/IMG_8233.jpeg",
+        "assets/IMG_8235.jpeg",
+        "assets/IMG_8241.jpeg",
+        "assets/IMG_8242.jpeg",
+        "assets/IMG_8243.jpeg",
+        "assets/IMG_8244.jpeg",
+        "assets/IMG_8245.jpeg",
+        "assets/icon.png"
+      ],
+      "password": "qphungios"
+    },
+    {
+      "identifier": "chebot2",
+      "name": "FTH AIMNECK ( BẬT SẢNH)",
+      "author": "qphungios",
+      "version": "1.0.0",
+      "summary": "QPHUNGIOS • H4CK IOS",
+      "description": "Zalo 0348609562  Tele @qphungios ",
+      "category": "qphungios",
+      "tags": [
+        "Game",
+        "qphungios"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/ffthneck.3105",
+      "sha256": "5e20c8ee3d956c1d30b9392ba17b907fe89a617cac7135ae3f05bf5a3ec2bba7",
+      "size": 1956429,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_8258.jpeg",
+        "assets/IMG_8231.jpeg",
+        "assets/IMG_8233.jpeg",
+        "assets/IMG_8235.jpeg",
+        "assets/IMG_8241.jpeg",
+        "assets/IMG_8242.jpeg",
+        "assets/IMG_8243.jpeg",
+        "assets/IMG_8244.jpeg",
+        "assets/IMG_8245.jpeg",
+        "assets/icon.png"
+      ],
+      "password": "qphungios"
+    },
+    {
+      "identifier": "aimbdra",
+      "name": "FTH AIMDRAG ( BẬT SẢNH )",
+      "author": "qphungios",
+      "version": "1.0.0",
+      "summary": "QPHUNGIOS • H4CK IOS",
+      "description": " Zalo 0348609562  Tele @qphungios ",
+      "category": "Game",
+      "tags": [
+        "Game",
+        "qphungios"
+      ],
+      "publishedAt": "2026-09-15T07:15:00Z",
+      "download": "packages/ffthdrag.3105",
+      "sha256": "0b40a2e31a3ed8cd7679d41858f5af58163f33634d24bb1bffe5ac13529a80c7",
+      "size": 1956429,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": true,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_8212.jpeg",
+        "assets/IMG_8231.jpeg",
+        "assets/IMG_8233.jpeg",
+        "assets/IMG_8235.jpeg",
+        "assets/IMG_8241.jpeg",
+        "assets/IMG_8242.jpeg",
+        "assets/IMG_8243.jpeg",
+        "assets/IMG_8244.jpeg",
+        "assets/IMG_8245.jpeg",
+        "assets/icon.png"
+      ],
+      "password": "qphungios"
+    },
+    {
+      "identifier": "aimsit",
+      "name": "FTH CHEST ( BẬT SẢNH )",
+      "author": "qphungios",
+      "version": "1.0.0",
+      "summary": "QPHUNGIOS • H4CK IOS",
+      "description": " Zalo 0348609562  Tele @qphungios ",
+      "category": "Game",
+      "tags": [
+        "Game",
+        "qphungios"
+      ],
+      "publishedAt": "2026-09-15T07:15:00Z",
+      "download": "packages/ffthchest.3105",
+      "sha256": "d1a8f76d59849c7aee76adb3b243d256c37007374b611eebb3e7dfb92df3692d",
+      "size": 1956430,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": true,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_8212.jpeg",
+        "assets/IMG_8231.jpeg",
+        "assets/IMG_8233.jpeg",
+        "assets/IMG_8235.jpeg",
+        "assets/IMG_8241.jpeg",
+        "assets/IMG_8242.jpeg",
+        "assets/IMG_8243.jpeg",
+        "assets/IMG_8244.jpeg",
+        "assets/IMG_8245.jpeg",
+        "assets/icon.png"
+      ],
+      "password": "qphungios"
+    },
+    {
+      "identifier": "aimbxic",
+      "name": "FTH MAGIC ( BẬT SẢNH )",
+      "author": "qphungios",
+      "version": "1.0.0",
+      "summary": "QPHUNGIOS • H4CK IOS",
+      "description": " Zalo 0348609562  Tele @qphungios ",
+      "category": "Game",
+      "tags": [
+        "Game",
+        "qphungios"
+      ],
+      "publishedAt": "2026-09-15T07:15:00Z",
+      "download": "packages/ffthmagic.3105",
+      "sha256": "c4b9fde96c18081e4da4c3875314678b4c3da25428d66df91b4c39421ee21b84",
+      "size": 1956427,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": true,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_8212.jpeg",
+        "assets/IMG_8231.jpeg",
+        "assets/IMG_8233.jpeg",
+        "assets/IMG_8235.jpeg",
+        "assets/IMG_8241.jpeg",
+        "assets/IMG_8242.jpeg",
+        "assets/IMG_8243.jpeg",
+        "assets/IMG_8244.jpeg",
+        "assets/IMG_8245.jpeg",
+        "assets/icon.png"
+      ],
+      "password": "qphungios"
     }
   ]
 }
